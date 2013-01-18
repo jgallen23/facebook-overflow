@@ -1,6 +1,6 @@
 /*!
  * facebook-overflow - Plugin to stop facebook widgets from making the content around them jump
- * v0.1.0
+ * v0.1.1
  * https://github.com/jgallen23/facebook-overflow
  * copyright Greg Allen 2013
  * MIT License
