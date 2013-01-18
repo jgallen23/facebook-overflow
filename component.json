@@ -7,5 +7,6 @@
   "copyright": "Greg Allen",
   "main": "dist/facebook-overflow.js",
   "dependencies": {
+    "jquery": "~1.*"
   }
 }
