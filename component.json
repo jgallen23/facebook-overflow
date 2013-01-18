@@ -1,0 +1,11 @@
+{
+  "name": "facebook-overflow",
+  "description": "Plugin to stop facebook widgets from jumping",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jgallen23/facebook-overflow",
+  "license": "MIT",
+  "copyright": "Greg Allen",
+  "main": "dist/facebook-overflow.js",
+  "dependencies": {
+  }
+}
